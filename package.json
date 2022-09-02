@@ -1,0 +1,20 @@
+{
+  "name": "complete-intro-react-v7-fe-masters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzarrr/complete-intro-react-v7-fe-masters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzarrr/complete-intro-react-v7-fe-masters/issues"
+  },
+  "homepage": "https://github.com/dzarrr/complete-intro-react-v7-fe-masters#readme"
+}
